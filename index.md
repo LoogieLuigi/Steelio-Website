@@ -3,8 +3,6 @@ layout: home
 title: Welcome to Steelio's App Blog
 ---
 
-# Welcome to Steelio's App Blog
-
 Welcome to the official blog for all apps developed by Steelio. Here, you'll find updates, news, and insights about my projects.
 
 ## Featured App: CryptoChatter
